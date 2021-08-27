@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Typescript and Distributed systems
+- 🌱 I’m currently learning Django, Kernel programming and Web security
 
 
 
