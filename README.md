@@ -1,13 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rohan Kumar Jha!](https://www.linkedin.com/in/rohan-jha-0bb16a190/) 
 
 
-
-
-- 🌱 I’m currently learning Django, Kernel programming and Web security
-
-
-
-
 <a href="https://www.linkedin.com/in/rohan-jha-0bb16a190/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
